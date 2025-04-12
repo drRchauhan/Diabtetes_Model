@@ -7,7 +7,6 @@ This project presents a comprehensive machine learning pipeline for classifying 
 ![Model Comparison](plots/model_comparison_all4.png)
 
 ---
-
 ## 🚀 Key Highlights
 
 - ✅ Ensemble learning with **XGBoost, AdaBoost, Random Forest**
